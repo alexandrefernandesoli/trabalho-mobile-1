@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Trabzin Mobile</string>
+
+    <string name="first_fragment_label">Inicio</string>
+    <string name="second_fragment_label">Sons de despertador</string>
+    <string name="third_fragment_label">Seleção de doguinhos</string>
+    <string name="goto_second_fragment">Sons de despertador</string>
+    <string name="goto_third_fragment">Seleção de doguinhos</string>
+
+    <string name="previous">Voltar</string>
+
+    <string name="hello_first_fragment">Programação para dispositivos móveis</string>
+    <string name="hello_second_fragment">Selecione um som 🎵</string>
+    <string name="hello_blank_fragment">Selecione um doguinho 😃</string>
+
+    <string-array name="sounds_array">
+        <item>Palmas</item>
+        <item>Sino</item>
+        <item>Estalar de Dedos</item>
+        <item>Vibração de Celular</item>
+    </string-array>
+</resources>
